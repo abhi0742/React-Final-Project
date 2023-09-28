@@ -1,0 +1,13 @@
+.profile-container {
+  width: 106rem;
+  height: 55rem;
+  padding: 1rem;
+}
+
+.profile {
+  margin-top: 10rem;
+  margin-left: 20rem;
+  width: 63%;
+  height: 100%;
+  background-color: rgb(67, 92, 112);
+}

@@ -1,0 +1,19 @@
+.dashboard {
+  padding: 1rem;
+}
+.dashboard h1 {
+  font-size: 1.2rem;
+  margin-top: 12rem;
+  margin-left: 15rem;
+}
+.chart {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  position: relative;
+  top: 3rem;
+  height: 50%;
+  width: 100%;
+}
